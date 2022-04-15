@@ -24,4 +24,4 @@
 - **Pesquisar um usuário já pesquisado através do histórico**
    
 ### Link Surge 
-[kindly-receipt.surge.sh]
+https://kindly-receipt.surge.sh
